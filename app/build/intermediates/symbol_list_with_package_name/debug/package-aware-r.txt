@@ -2996,6 +2996,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable google
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_arrow_back_black_24
@@ -3305,6 +3306,7 @@ id fullscreen_header
 id ghost_view
 id ghost_view_holder
 id gone
+id google_signin_button
 id graph
 id graph_wrap
 id group_divider
@@ -4014,6 +4016,7 @@ string searchview_navigation_content_description
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
+string your_web_client_id
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.shubham.socialflow.app-mergeDebugResources-34:/values-te/values-te.xml",
+            "outputFile": "com.shubham.socialflow.app-mergeDebugResources-35:/values-te/values-te.xml",
             "map": [
                 {
                     "source": "C:\\Users\\shubham\\.gradle\\caches\\transforms-3\\5562fc8811853531cdf18766729df6ff\\transformed\\core-1.12.0\\res\\values-te\\values-te.xml",

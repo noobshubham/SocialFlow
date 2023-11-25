@@ -14,10 +14,12 @@ MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\shubham\.gradl
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\shubham\.gradle\caches\transforms-3\d3d5631141a25ae6ffc7b5d0169c80f8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\shubham\.gradle\caches\transforms-3\286dad69244186acac20ef2f12cecf9c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\shubham\.gradle\caches\transforms-3\d2edb9c28566321e8cca3e7f3d690f04\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:17:1-40:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\9e690c001fa1a6790b246872ef1a4040\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\shubham\.gradle\caches\transforms-3\8979270300d39613be7e81b25b0f532c\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\5e981d644a4795fb3f289a47ef4bec6c\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\shubham\.gradle\caches\transforms-3\200c6c842021692893ec393e42ca0074\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\71fb21860d435331c6103c552e50fa80\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\1f145dc0d37b9aba0bdbd6bb1e676306\transformed\play-services-auth-base-18.0.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\54aebf6968ab5c0bd53f02ce3fd1ae3a\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\shubham\.gradle\caches\transforms-3\de6f712e3adc4a648b29560d0a9cbcbd\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\shubham\.gradle\caches\transforms-3\50540e835c554f40272fc58ec1179482\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
@@ -33,9 +35,9 @@ MERGED from [androidx.transition:transition:1.2.0] C:\Users\shubham\.gradle\cach
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\87a20067e138b98c0a7e5e2588f3e5e0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\15fd21d5cee94a465c5f5c3b21d8ef7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\shubham\.gradle\caches\transforms-3\21844be236618b3150977bdd9f631626\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\f7ec92751fe0a66b39b5b68835790939\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\f7ab731ef50e68943e4c8df25b8f4d69\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\777fe8a42dd8db32b3dd06391e359b71\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\f7ec92751fe0a66b39b5b68835790939\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\52c2e156b8984b6764094f0a41d35596\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\16b1923840198b6abd53cf3b7ac46e98\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.12.0] C:\Users\shubham\.gradle\caches\transforms-3\5562fc8811853531cdf18766729df6ff\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
@@ -92,6 +94,8 @@ MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\shubham\.gradl
 MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\shubham\.gradle\caches\transforms-3\6acc581649ace3d978fb134c839037f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\shubham\.gradle\caches\transforms-3\d3d5631141a25ae6ffc7b5d0169c80f8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\shubham\.gradle\caches\transforms-3\d3d5631141a25ae6ffc7b5d0169c80f8\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:22:5-38:19
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\5e981d644a4795fb3f289a47ef4bec6c\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\5e981d644a4795fb3f289a47ef4bec6c\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\shubham\.gradle\caches\transforms-3\200c6c842021692893ec393e42ca0074\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
@@ -188,14 +192,18 @@ MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\shubham\.gra
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\shubham\.gradle\caches\transforms-3\286dad69244186acac20ef2f12cecf9c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\shubham\.gradle\caches\transforms-3\d2edb9c28566321e8cca3e7f3d690f04\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\shubham\.gradle\caches\transforms-3\d2edb9c28566321e8cca3e7f3d690f04\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\9e690c001fa1a6790b246872ef1a4040\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\9e690c001fa1a6790b246872ef1a4040\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\shubham\.gradle\caches\transforms-3\8979270300d39613be7e81b25b0f532c\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\shubham\.gradle\caches\transforms-3\8979270300d39613be7e81b25b0f532c\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\5e981d644a4795fb3f289a47ef4bec6c\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
 MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\5e981d644a4795fb3f289a47ef4bec6c\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\shubham\.gradle\caches\transforms-3\200c6c842021692893ec393e42ca0074\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\shubham\.gradle\caches\transforms-3\200c6c842021692893ec393e42ca0074\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\71fb21860d435331c6103c552e50fa80\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\71fb21860d435331c6103c552e50fa80\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\1f145dc0d37b9aba0bdbd6bb1e676306\transformed\play-services-auth-base-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\1f145dc0d37b9aba0bdbd6bb1e676306\transformed\play-services-auth-base-18.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\54aebf6968ab5c0bd53f02ce3fd1ae3a\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\54aebf6968ab5c0bd53f02ce3fd1ae3a\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\shubham\.gradle\caches\transforms-3\de6f712e3adc4a648b29560d0a9cbcbd\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
@@ -226,12 +234,12 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\shubham\.gra
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\15fd21d5cee94a465c5f5c3b21d8ef7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\shubham\.gradle\caches\transforms-3\21844be236618b3150977bdd9f631626\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\shubham\.gradle\caches\transforms-3\21844be236618b3150977bdd9f631626\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\f7ec92751fe0a66b39b5b68835790939\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\f7ec92751fe0a66b39b5b68835790939\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\f7ab731ef50e68943e4c8df25b8f4d69\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\f7ab731ef50e68943e4c8df25b8f4d69\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\777fe8a42dd8db32b3dd06391e359b71\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\777fe8a42dd8db32b3dd06391e359b71\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\f7ec92751fe0a66b39b5b68835790939\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shubham\.gradle\caches\transforms-3\f7ec92751fe0a66b39b5b68835790939\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\52c2e156b8984b6764094f0a41d35596\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\52c2e156b8984b6764094f0a41d35596\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\shubham\.gradle\caches\transforms-3\16b1923840198b6abd53cf3b7ac46e98\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -382,6 +390,26 @@ ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\shubham\.gradle
 		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\shubham\.gradle\caches\transforms-3\6acc581649ace3d978fb134c839037f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\shubham\.gradle\caches\transforms-3\6acc581649ace3d978fb134c839037f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.1.0] C:\Users\shubham\.gradle\caches\transforms-3\c9f447203929aa8990e88a1bd26816ea\transformed\play-services-auth-20.1.0\AndroidManifest.xml:34:13-89
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\shubham\.gradle\caches\transforms-3\54aebf6968ab5c0bd53f02ce3fd1ae3a\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 	android:exported

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.shubham.socialflow.app-mergeDebugResources-34:/values-be/values-be.xml",
+            "outputFile": "com.shubham.socialflow.app-mergeDebugResources-35:/values-be/values-be.xml",
             "map": [
                 {
                     "source": "C:\\Users\\shubham\\.gradle\\caches\\transforms-3\\54aebf6968ab5c0bd53f02ce3fd1ae3a\\transformed\\play-services-base-18.0.1\\res\\values-be\\values.xml",

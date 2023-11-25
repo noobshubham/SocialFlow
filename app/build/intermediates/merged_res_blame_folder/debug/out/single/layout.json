@@ -1,14 +1,18 @@
 [
     {
-        "merged": "com.shubham.socialflow.app-mergeDebugResources-35:/layout/activity_main.xml",
-        "source": "com.shubham.socialflow.app-main-38:/layout/activity_main.xml"
+        "merged": "com.shubham.socialflow.app-mergeDebugResources-36:/layout/activity_phone.xml",
+        "source": "com.shubham.socialflow.app-main-39:/layout/activity_phone.xml"
     },
     {
-        "merged": "com.shubham.socialflow.app-mergeDebugResources-35:/layout/activity_phone.xml",
-        "source": "com.shubham.socialflow.app-main-38:/layout/activity_phone.xml"
+        "merged": "C:\\Users\\shubham\\.gradle\\daemon\\8.0\\com.shubham.socialflow.app-mergeDebugResources-36:\\layout\\activity_otp.xml",
+        "source": "C:\\Users\\shubham\\.gradle\\daemon\\8.0\\com.shubham.socialflow.app-main-39:\\layout\\activity_otp.xml"
     },
     {
-        "merged": "com.shubham.socialflow.app-mergeDebugResources-35:/layout/activity_otp.xml",
-        "source": "com.shubham.socialflow.app-main-38:/layout/activity_otp.xml"
+        "merged": "C:\\Users\\shubham\\.gradle\\daemon\\8.0\\com.shubham.socialflow.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\shubham\\.gradle\\daemon\\8.0\\com.shubham.socialflow.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shubham\\.gradle\\daemon\\8.0\\com.shubham.socialflow.app-mergeDebugResources-36:\\layout\\activity_phone.xml",
+        "source": "C:\\Users\\shubham\\.gradle\\daemon\\8.0\\com.shubham.socialflow.app-main-39:\\layout\\activity_phone.xml"
     }
 ]
