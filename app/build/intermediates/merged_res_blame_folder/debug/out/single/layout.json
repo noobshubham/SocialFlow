@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.shubham.socialflow.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.shubham.socialflow.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.shubham.socialflow.app-mergeDebugResources-35:/layout/activity_phone.xml",
+        "source": "com.shubham.socialflow.app-main-38:/layout/activity_phone.xml"
+    },
+    {
+        "merged": "com.shubham.socialflow.app-mergeDebugResources-35:/layout/activity_otp.xml",
+        "source": "com.shubham.socialflow.app-main-38:/layout/activity_otp.xml"
+    }
+]
